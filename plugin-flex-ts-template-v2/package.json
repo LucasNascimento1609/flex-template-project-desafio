@@ -32,7 +32,8 @@
     "react-minimal-pie-chart": "^8.4.0",
     "rrule": "^2.7.1",
     "semver": "^7.6.3",
-    "simple-audio-recorder": "^1.2.3"
+    "simple-audio-recorder": "^1.2.3",
+    "twilio": "^5.3.2"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.12.1",
